@@ -1,6 +1,6 @@
-package CreationalPatterns.destroy;
+package CreationalPatterns.Singleton.destroy;
 
-import CreationalPatterns.Singleton5;
+import CreationalPatterns.Singleton.Singleton5;
 
 import java.lang.reflect.Constructor;
 

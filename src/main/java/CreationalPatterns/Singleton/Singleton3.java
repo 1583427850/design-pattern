@@ -1,4 +1,4 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton;
 
 /**
  * 单例之懒汉式方法1

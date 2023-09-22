@@ -1,4 +1,4 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton;
 
 /**
  * 创建型模式之单例模式

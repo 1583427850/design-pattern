@@ -1,4 +1,4 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton;
 
 /**
  * 测试单例模式
